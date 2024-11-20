@@ -542,6 +542,10 @@ img {
   width: 75%;
 }
 
+.skills__nest{
+  width: 50%;
+}
+
 .skills__algos{
   width: 50%;
 }
