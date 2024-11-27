@@ -546,6 +546,10 @@ img {
   width: 50%;
 }
 
+.prisma{
+  width: 75%;
+}
+
 .skills__algos{
   width: 50%;
 }
@@ -876,7 +880,7 @@ img {
 }
 
 .contact__form{
-  padding: 2rem 2rem;
+  padding: -75rem 2rem;
 }
 
 .contact__information{
